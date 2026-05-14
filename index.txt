@@ -1,4 +1,4 @@
-1:"$Sreact.fragment"
+﻿1:"$Sreact.fragment"
 2:I[39756,["/ZER/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 3:I[37457,["/ZER/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 4:I[47257,["/ZER/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
@@ -17,4 +17,4 @@ f:I[68027,["/ZER/_next/static/chunks/0dbhjjzl8qfwv.js"],"default",1]
 c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 10:I[27201,["/ZER/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
 a:null
-e:[["$","title","0",{"children":"ZER OSMANLI | Imperial Ottoman Dining"}],["$","meta","1",{"name":"description","content":"An extraordinary fusion of Ottoman culinary heritage and modern fine dining in the heart of Antalya."}],["$","link","2",{"rel":"icon","href":"/ZER/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L10","3",{}]]
+e:[["$","title","0",{"children":"ZER | Imperial Ottoman Dining"}],["$","meta","1",{"name":"description","content":"An extraordinary fusion of Ottoman culinary heritage and modern fine dining in the heart of Antalya."}],["$","link","2",{"rel":"icon","href":"/ZER/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L10","3",{}]]
